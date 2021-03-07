@@ -2,5 +2,9 @@ Title:
 Wikipedia’s Response to the COVID-19 Pandemic
 
 Abstract:
-Through collaborative efforts online, Wikipedia has always been at the forefront of providing information to the public on almost any topic, including a pandemic. Covid-19 has been one of the most relevant topics of 2020 and still remains so as of right now, therefore gathering as much information as possible is essential for the world to combat such a virus. Many official health sources online provide such knowledge with the resources that they have, but false or outdated information can spread quickly. In this article, we perform EDA and LDA on different Wikipedia articles related to coronavirus and compare the results to the word clouds of traditional sources to explore how Wikipedia can provide reliable and updated details and data about Covid-19.
+Through collaborative efforts online, Wikipedia has always been at the forefront of providing information to the public on almost any topic, 
+including a pandemic. Covid-19 has been one of the most relevant topics of 2020 and still remains so as of right now, therefore gathering as much information 
+as possible is essential for the world to combat such a virus. Many official health sources online provide such knowledge with the resources that they have, 
+but false or outdated information can spread quickly. In this article, we perform EDA and LDA on different Wikipedia articles related to coronavirus and compare 
+the results to the word clouds of traditional sources to explore how Wikipedia can provide reliable and updated details and data about Covid-19.
 
